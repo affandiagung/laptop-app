@@ -8,7 +8,7 @@ module.exports = {
         {
           name: "Admin",
           email: "admin@gmail.com",
-          password: "abcd1234",
+          password: "$2b$10$QowTwXpX4d2OKOMtgiByRuhhWbURUtQPW5fPeAt0jMJhGJIwMBcQO",
           isAdmin: true,
           createdAt : new Date(),
           updatedAt : new Date()
@@ -16,7 +16,7 @@ module.exports = {
         {
           name: "Admin2",
           email: "admin2@gmail.com",
-          password: "abcd1234",
+          password: "$2b$10$QowTwXpX4d2OKOMtgiByRuhhWbURUtQPW5fPeAt0jMJhGJIwMBcQO",
           isAdmin: true,
           createdAt : new Date(),
           updatedAt : new Date()
